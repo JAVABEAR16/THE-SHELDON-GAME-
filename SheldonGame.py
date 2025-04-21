@@ -1,5 +1,5 @@
 print()
-IDIOMA = int(input("Which Language do you prefer, Portuguese (Press 1) or English (Press 1) ?\n\nQual idioma você prefere, Português (Pressione 1) ou Inglês (Pressione 2) ? "))
+IDIOMA = int(input("Which Language do you prefer, Portuguese (Press 1) or English (Press 2) ?\n\nQual idioma você prefere, Português (Pressione 1) ou Inglês (Pressione 2) ? "))
 if IDIOMA == 1:
     print()
     print(40*"-")
